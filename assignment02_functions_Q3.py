@@ -1,4 +1,4 @@
-#Title - Assignment-2-Functions - Q3
+#Title - Assignment-2- Functions - Q3
 #Create a function that tells elegibility of marriage for male and female according to their age limit like 21 for male and 18 for female
 #Author - Yuvaraj Rajendran
 #Date - 19/03/2025

@@ -1,4 +1,4 @@
-#Title - Assignment-2-Functions - Q4
+#Title - Assignment-2- Functions - Q4
 #calculate the percentage of your 10th mark
 #Author - Yuvaraj Rajendran
 #Date - 19/03/2025
